@@ -206,7 +206,6 @@
                         this.abilityMsg = response.data.function_info
                     },
                     (response) => {
-                        debugger;
                         this.$message({
                             message: response.data,
                             type: 'error'

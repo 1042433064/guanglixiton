@@ -280,6 +280,7 @@
             if(token){
                this.isHideLoginPop=true;
             }
+            this.isHideLoginPop=true;
         }
     }
 </script>
